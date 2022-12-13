@@ -1,0 +1,11 @@
+{
+  "name": "pwm-login",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.html",
+  "author": "ahc",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.1.2"
+  }
+}
